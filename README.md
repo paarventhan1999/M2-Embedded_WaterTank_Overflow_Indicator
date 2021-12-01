@@ -1,5 +1,8 @@
 # Automated Water Tank Overflow Control
 
+ ## Code Quality
+[![Code quality score](https://api.codiga.io/project/30201/score/svg)](https://app.codiga.io/project/30201/dashboard)
+[![Code Grade](https://api.codiga.io/project/30201/status/svg)](https://app.codiga.io/project/30201/dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/78c9358363d94466981338649cffdc73)](https://app.codacy.com/gh/Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator?utm_source=github.com&utm_medium=referral&utm_content=Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator&utm_campaign=Badge_Grade_Settings)
 
 Basically  automation  in  systems  would  help  reduce  wastage  of  resources  in  various  ways,  one  such  way  for  the 
