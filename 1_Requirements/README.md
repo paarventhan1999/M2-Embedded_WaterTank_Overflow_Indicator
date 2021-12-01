@@ -11,42 +11,42 @@ into  the  tanks  automatically.
 1.Shows water level <br />
 2.cut off water automatically <br />
 3.User friendly.
-# SWOT ANALYSIS
-  ## Strengths
+ ## SWOT ANALYSIS
+  ### Strengths
  1.conservation of water resource <br /> 
  2.Manual effort reduction 
-   ## Weakness
+   ### Weakness
  Maintanance is required.  
-  ## Opportunities
+  ### Opportunities
 
 Program can be changed based on our convenience.
-  ## Threats
+  ### Threats
 
 competitive due to more versions of Products.
-# 4W's and 1H
-  ## Who
+ ## 4W's and 1H
+  ### Who
 This Product can be used by any consumers because its simple user friendly.
-  ## What
+  ### What
 
 It makes water tank fill and cut off water automatically. 
-  ## When
+  ### When
 
 When the water level is low the tank fill automatic. 
-  ## Where
+  ### Where
 
 This sysstem can be used in any place like home,office,park,etc...
-  ## How
+  ### How
 
 The system controled by atmega328 which act ass brain.
-# Detailed requirements
-  ## High level requirements 
+ ## Detailed requirements
+  ### High level requirements 
 
 | ID | Description | Status |
 | ------ | ------ | ------ |
 | HLR1 | display level | Implemented |
 | HLR2 | flow water when level low | Implemented
 | HLR3 | stop water flow when level is reached| Implemented
-  ## Low level requirements 
+  ### Low level requirements 
 
 | ID | Description | Status |
 | ------ | ------ | ------ |
