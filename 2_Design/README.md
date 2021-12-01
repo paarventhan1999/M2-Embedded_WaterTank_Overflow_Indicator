@@ -2,4 +2,4 @@
 https://app.diagrams.net/
 
 ## Tool used for simulation
-**Simulide**
+[![Simulide](https://www.simulide.com/p/downloads.html)](https://www.simulide.com/p/downloads.html)
