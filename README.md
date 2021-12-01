@@ -6,3 +6,11 @@ handling  of  any  kind  of  devices  with  comfort  is  made  to  be  the  easi
 of  comfort  zones  and  the  prevention  of  wastage  of  resources,  a  design  of  an  automated  overflow  control  circuit 
 unit  was  proposed.  The  proposal  was  designed  on  the  perspective  of  controlling  the  flow  of  water 
 into  the  tanks  automatically. 
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design          | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans 
