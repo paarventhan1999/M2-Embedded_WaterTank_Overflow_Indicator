@@ -8,7 +8,7 @@
 void LCD_CMD( unsigned char command );
 void LCD_CHAR_WISE( unsigned char ch );
 void LCD_INITIALIZATION(void);
-void LCD_DISPLAY (char *temperature_value);
+void LCD_DISPLAY (char *water_level);
 void CLEAR_LCD();
 
 void lcd(void);
