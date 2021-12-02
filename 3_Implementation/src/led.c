@@ -16,7 +16,7 @@ void led()
 
     if  ( (!(PIND & (1<<PD0))) & (!(PIND & (1<<PD1))) )
     {
-        PORTD &= ~(1<<PD2);   //Turns off the LED if both the switches are turned open by the user
+        PORTD &= ~(1<<PD2);   //Turns off the LED if both the switches are closed
         _delay_ms(1000);
     }
     else if  ( ((PIND & (1<<PD0))) & (!(PIND & (1<<PD1))) )
