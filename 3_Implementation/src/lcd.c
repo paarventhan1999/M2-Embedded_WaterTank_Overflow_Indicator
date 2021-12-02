@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include "lcd.h"
-#define _A1_h_
+#define _led_h_
 #include <util/delay.h>
 void LCD_CMD( unsigned char command )
 {
