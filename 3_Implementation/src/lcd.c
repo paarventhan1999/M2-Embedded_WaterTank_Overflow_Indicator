@@ -48,12 +48,12 @@ void LCD_INITIALIZATION(void)
 	LCD_CMD(0x01);  // LCD Clear
 	_delay_ms(5);
 }
-void LCD_DISPLAY (char *temperature_value)
+void LCD_DISPLAY (char *water_level)
 {
 	int Index;
-	for(Index=0;temperature_value[Index]!=0;Index++)
+	for(Index=0;water_level[Index]!=0;Index++)
 	{
-		LCD_CHAR_WISE(temperature_value[Index]);
+		LCD_CHAR_WISE(water_level[Index]);
 	}
 }
 void CLEAR_LCD()
